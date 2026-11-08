@@ -199,3 +199,6 @@ This repository serves as the official landing page for Necromunda: Underhive Wa
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Necromunda: Underhive Wars today!**
+
+---
+**Last updated:** 2026-11-08 20:03:54 UTC
