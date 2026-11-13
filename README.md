@@ -201,4 +201,4 @@ This repository serves as the official landing page for Necromunda: Underhive Wa
 **Get the most recent version of Necromunda: Underhive Wars today!**
 
 ---
-**Last updated:** 2026-11-13 04:18:09 UTC
+**Last updated:** 2026-11-13 12:44:05 UTC
